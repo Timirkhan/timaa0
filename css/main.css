@@ -4,12 +4,6 @@
 	border: 0;
 	box-sizing: border-box;
 }
-input,button,textarea{font-family:inherit;}
-nav,footer,header,aside{display: block;}
-input,button,textarea{font-family:inherit;}
-h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
-/*--------------------*/
-
 body {
 	font-size: 15px;
 	font-family: 'Ubuntu', sans-serif;
